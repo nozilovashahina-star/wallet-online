@@ -1,0 +1,4 @@
+/* App specific layout utilities */
+.app-container {
+  min-height: 100vh;
+}
